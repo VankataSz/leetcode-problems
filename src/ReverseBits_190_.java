@@ -1,5 +1,3 @@
-package bit_manipulation;
-
 public class ReverseBits_190_ {
     public static void main(String[] args) {
 
